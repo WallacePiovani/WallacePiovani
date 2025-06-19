@@ -10,10 +10,10 @@
 
 
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=wallacepiovani&theme=dracula&hide=issues,contribs&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=wallacepiovani&theme=tokyonight&hide=issues,contribs&rank_icon=github" />
 </a>
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacepiovani&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallacepiovani&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 </div>
 
